@@ -1,5 +1,3 @@
-Aqui está a versão do **`README.md`** completamente limpa, sem emojis, com uma formatação bem estruturada, legível e profissional:
-
 ```markdown
 # Sistema de Reservas de Equipamentos e Laboratórios - IFMS
 
